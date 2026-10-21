@@ -1,1 +1,2 @@
 今天学了 git
+今天还学了 add 和 commit
